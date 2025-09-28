@@ -39,13 +39,13 @@ Connectors
 - 1 x	PinSocket_1x04_P2.54mm_Vertical
 - 1 x	PinHeader_1x03_P2.54mm_Vertical
 
-
-
-
 **Software:**
+
 Currently running ESPhome firmware. No custom firmware jobs. ESPhome integrates well into my Home Assistant environment.
 
+
 **ESPHome YAML Config**
+
   switch:
     - platform: gpio
       name: "Relay 1"

@@ -58,3 +58,5 @@ Currently running ESPhome firmware. No custom firmware jobs. ESPhome integrates 
     - platform: gpio
       name: "Relay 4"
       pin: 22  # D4 (GPIO2)
+
+      

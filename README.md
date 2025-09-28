@@ -1,4 +1,5 @@
 **Intro**
+
 Sharing my hardware PCB design for smart powerstrip as it was requested.
 Made some v.9 changes based on initial feedback I received posting pictures online.
 

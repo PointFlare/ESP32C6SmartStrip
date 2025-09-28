@@ -16,22 +16,29 @@ I'm sure there is plenty to improve. So, I welcome anyone to do so. But please s
 - Safety: Glass fuse on each outlet
 
 **Hardware (BOM):**
-1 x X2 CAP 100nf
-1 x Varistor CAP VY2
-1 x	Polymer cap	100µF
-4 x 1N4448	
-4 x 1N4739A	
-5 x Fuseholder_Clip-5x20mm
-1 x FL1	Choke_Schaffner_RN102-04-14.0x14.0mm
-5 x TerminalBlock_WAGO_236-202_1x02_P7.50m
-1 x	PinSocket_1x04_P2.54mm_Vertical
-1 x	PinHeader_1x03_P2.54mm_Vertical
-4 x	Relay_SPST_RAYEX-L90AS
-1 x HLK-12M05A	
-4 x 2N3904	
-4 x 1kΩ
-1 x XIAO-ESP32C6
-Optional: Pinheaders to seat ESP. Or solder directly to board.
+Electrical Components
+- 4 x 1N4448
+- 4 x 1N4739A
+- 4 x 2N3904
+- 4 x	Relay_SPST_RAYEX-L90AS
+- 1 x HLK-12M05A
+- 1 x X2 CAP 100nf
+- 1 x Varistor CAP VY2
+- 1 x	Polymer cap	100µF
+- 4 x Resistor 1kΩ
+
+MCU
+- 1 x XIAO-ESP32C6
+- Optional: Pinheaders to seat ESP. Or solder directly to board.
+
+Connectors  
+- 5 x Fuseholder_Clip-5x20mm
+- 1 x FL1	Choke_Schaffner_RN102-04-14.0x14.0mm
+- 5 x TerminalBlock_WAGO_236-202_1x02_P7.50m
+- 1 x	PinSocket_1x04_P2.54mm_Vertical
+- 1 x	PinHeader_1x03_P2.54mm_Vertical
+
+
 
 
 **Software:**
